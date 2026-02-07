@@ -505,6 +505,58 @@ a {
     border-color: transparent;
 }
 
+.service-badge {
+    position: absolute;
+    top: -12px;
+    right: var(--spacing-md);
+    background-color: var(--harvard-red);
+    color: white;
+    padding: 0.25rem 1rem;
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.service-header {
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    padding-bottom: var(--spacing-md);
+    margin-bottom: var(--spacing-md);
+}
+
+.service-header h3 {
+    font-size: 2rem;
+    margin-bottom: var(--spacing-xs);
+    color: var(--text-primary);
+}
+
+.service-subtitle {
+    color: var(--text-tertiary);
+    font-size: 0.9rem;
+    margin-bottom: var(--spacing-sm);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.service-price {
+    font-family: var(--font-cormorant), serif;
+    font-size: 3rem;
+    color: var(--text-primary);
+    margin-top: var(--spacing-sm);
+}
+
+.service-description {
+    margin-bottom: var(--spacing-md);
+    color: var(--text-secondary);
+    line-height: 1.7;
+}
+
+.service-note {
+    font-weight: 500;
+    color: var(--text-primary);
+    margin-bottom: var(--spacing-sm);
+}
+
 .service-features {
     list-style: none;
     margin-bottom: var(--spacing-md);
