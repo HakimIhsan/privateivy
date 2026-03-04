@@ -15,8 +15,8 @@ const inter = Inter({
 })
 
 export const metadata = {
-  title: 'TiyerOne | Strategic Stewardship for Ivy League Admissions',
-  description: 'We develop Ivy League–level candidates through strategic, long-term mentorship. Designed exclusively for ultra-high-net-worth families.',
+  title: 'TiyerOne | Strategic Education Advisory for Ivy League & Top-Tier Universities',
+  description: 'Curated for families who value educational excellence. We develop candidates—intellectually, strategically, and psychologically—from early positioning through graduation readiness.',
 }
 
 export default function RootLayout({ children }) {

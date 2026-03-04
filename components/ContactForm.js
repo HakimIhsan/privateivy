@@ -115,7 +115,7 @@ export default function ContactForm() {
             rows="5"
             value={formData.message}
             onChange={handleChange}
-            placeholder="Brief overview of academic background, research interests, and goals..."
+            placeholder="Brief overview of academic background, target programs, and timeline..."
           />
         </div>
         <button type="submit" className="btn-primary btn-submit">Request Consultation</button>

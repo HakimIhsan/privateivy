@@ -15,9 +15,9 @@ export default function Hero() {
   return (
     <section className="hero">
       <div className="hero-content">
-        <h1 className="hero-title animate-fade-in-up">Strategic Stewardship for<br /><em>Ivy League Admissions</em></h1>
-        <p className="hero-subtitle animate-fade-in-up delay-100">Architecting the path to the world's most prestigious institutions.</p>
-        <p className="hero-description animate-fade-in-up delay-200">We cultivate Ivy League–caliber candidates through rigorous, long-term stewardship. For families who understand that exceptional outcomes are rarely accidental—they are the result of strategic precision.</p>
+        <h1 className="hero-title animate-fade-in-up">Curated for Families Who Value<br /><em>Educational Excellence</em></h1>
+        <p className="hero-subtitle animate-fade-in-up delay-100">Strategic education advisory for Ivy League and top-tier global universities.</p>
+        <p className="hero-description animate-fade-in-up delay-200">We don’t simply guide applications. We develop candidates—intellectually, strategically, and psychologically—and steward the entire journey from early positioning through admission, enrollment, and graduation readiness.</p>
         <div className="hero-cta animate-fade-in-up delay-300">
           <a 
             href="#contact" 
@@ -37,7 +37,7 @@ export default function Hero() {
               handleSmoothScroll('#services')
             }}
           >
-            Explore Engagement
+            Explore Advisory
           </a>
         </div>
       </div>
