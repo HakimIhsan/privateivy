@@ -103,8 +103,8 @@ export default function ContactForm() {
             required
           >
             <option value="">Select a service tier</option>
-            <option value="signature">Signature Advisory (USD 8,999)</option>
-            <option value="executive">Executive Advisory (USD 15,999)</option>
+            <option value="signature">Signature Advisory</option>
+            <option value="executive">Executive Advisory</option>
           </select>
         </div>
         <div className="form-group">

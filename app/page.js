@@ -72,7 +72,6 @@ export default function Home() {
               <div className="service-header">
                 <h3>Signature Advisory</h3>
                 <p className="service-subtitle">Strategic Ivy League & Top-Tier Positioning</p>
-                <div className="service-price">USD 8,999</div>
               </div>
               <p className="service-description">High-touch, founder-led advisory for candidates who expect clarity, structure, and strategic coherence—transforming raw potential into a compelling, authentic narrative.</p>
               <ul className="service-features">
@@ -92,7 +91,6 @@ export default function Home() {
               <div className="service-header">
                 <h3>Executive Advisory</h3>
                 <p className="service-subtitle">End-to-End Stewardship Through Graduation</p>
-                <div className="service-price">USD 15,999</div>
               </div>
               <p className="service-description">Our most immersive engagement. Complete stewardship—positioning, preparation, and presentation at the highest possible level across every stage.</p>
               <p className="service-note">Includes Signature Advisory, plus:</p>
